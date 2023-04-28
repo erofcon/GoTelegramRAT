@@ -1,0 +1,6 @@
+github.com/BurntSushi/xgb v0.0.0-20210121224620-deaf085860bc h1:7D+Bh06CRPCJO3gr2F7h1sriovOZ8BMhca2Rg85c2nk=
+github.com/BurntSushi/xgb v0.0.0-20210121224620-deaf085860bc/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
+github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1 h1:wG8n/XJQ07TmjbITcGiUaOtXxdrINDz1b0J1w0SzqDc=
+github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1/go.mod h1:A2S0CWkNylc2phvKXWBBdD3K0iGnDBGbzRpISP2zBl8=
+github.com/vova616/screenshot v0.0.0-20220801010501-56c10359473c h1:mqgl+NQgzZ30EX7oA3uNIlPn6dAgG6sThBiUodUzZpU=
+github.com/vova616/screenshot v0.0.0-20220801010501-56c10359473c/go.mod h1:gjlNhAXON0uGGilpsAZpMx5bN1ZVavUlJETHif7w4HQ=
